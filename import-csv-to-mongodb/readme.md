@@ -4,7 +4,7 @@ To run:
 
 * npm install the required modules
 * run example with:
-
+```
     node run.js
-
+```
 	
